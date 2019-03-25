@@ -8,4 +8,4 @@ every ${1:expr1} do {
   <tabTrigger>e</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
  <scope>source.icn</scope>
-</snippet>
+</snippet>  
