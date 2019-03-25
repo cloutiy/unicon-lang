@@ -5,7 +5,7 @@ until ${1:expr1} do {
 } 
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>un</tabTrigger>
+  <tabTrigger>u</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
  <scope>source.icn</scope>
 </snippet>
