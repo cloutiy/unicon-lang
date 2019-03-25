@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
 procedure ${1:name}(${2:args})
-  ${1:expr}
+  ${3:expr}
   return
 end
 ]]></content>
