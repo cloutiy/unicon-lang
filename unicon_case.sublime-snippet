@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+case ${1:expr} of {
+  ${2:expr}: ${3:expr}
+  ${4:expr}: ${5:expr}
+  default: ${3:expr}
+} 
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>c</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+ <scope>source.icn</scope>
+</snippet>

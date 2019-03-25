@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+procedure ${1:name} (${2:args})
+  ${1:expr}
+return
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>pro</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+ <scope>source.icn</scope>
+</snippet>
+
+
